@@ -11,22 +11,22 @@ const handler = async (m, {conn, usedPrefix}) => {
   const document = doc[Math.floor(Math.random() * doc.length)];
   const text = `${tradutor.texto1}`.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT`},
+    'document': {url: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY`},
     'mimetype': `application/${document}`,
-    'fileName': `「  𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓 」`,
+    'fileName': `「  Readz Aleizn 」`,
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT',
+        'mediaUrl': 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2,
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT'}},
+        'sourceUrl': 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[

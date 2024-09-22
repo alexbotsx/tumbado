@@ -9,13 +9,13 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-1.- https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
+1.- https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
 
-2.- https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
+2.- https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
 
-3.- https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
+3.- https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
 
-4.- https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
+4.- https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
 
 > GHOST TEAM :
 
@@ -23,7 +23,7 @@ ${tradutor.texto1[1]}
 
 2.- https://chat.whatsapp.com/Fy74b6fgE9SJJpHVi6CKJY`.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT`},
+    'document': {url: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2}`,
     'fileLength': 99999999999999,
@@ -32,13 +32,13 @@ ${tradutor.texto1[1]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT',
+        'mediaUrl': 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `${tradutor.texto3}`,
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT'}},
+        'sourceUrl': 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'}},
     'caption': text,
     'footer': wm,
     'headerType': 6};

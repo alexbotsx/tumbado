@@ -16,9 +16,9 @@ handler.before = async (m) => {
         let textodem = m.text;
         const name = mconn.conn.getName(m.sender)
         const namedem = `${name || 'Sin definir'}`
-        const sytm = await fetch(`https://raw.githubusercontent.com/BrunoSobrino/𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓/master/src/JSON/chatgpt_indicciones.txt`).then(v => v.text());
+        const sytm = await fetch(`https://raw.githubusercontent.com/BrunoSobrino/Readz Aleizn/master/src/JSON/chatgpt_indicciones.txt`).then(v => v.text());
         const sistema1 = sytm.replace('@name', namedem)
-        const sistema2 = 'Tu seras 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓 - MD, un bot de WhatsApp creado por Bruno Sobrino';
+        const sistema2 = 'Tu seras Una puta, Y mi dueño';
         try {
         async function getOpenAIChatCompletion(texto) {
         const openaiAPIKey = global.openai_key;

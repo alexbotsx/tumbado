@@ -1,4 +1,4 @@
-// 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓@BrunoSobrino - _antiarab.js
+// Readz Aleizn@BrunoSobrino - _antiarab.js
 
 
 const handler = (m) => m;

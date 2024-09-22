@@ -1,5 +1,5 @@
 {
-  "name": "𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓",
+  "name": "Readz Aleizn",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT",
+  "homepage": "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT.git"
+    "url": "git+https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY.git"
   },
   "bugs": {
-    "url": "https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT/issues"
+    "url": "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

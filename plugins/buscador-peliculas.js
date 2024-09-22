@@ -1,4 +1,4 @@
-/* Creado por Bruno Sobrino (https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT) */
+/* Creado por Bruno Sobrino (https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY) */
 import fetch from 'node-fetch';
 import axios from 'axios';
 

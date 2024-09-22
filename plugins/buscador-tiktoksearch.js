@@ -1,4 +1,4 @@
-// Codigo hecho para 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓 - MD por https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
+// Codigo hecho para Readz Aleizn - MD por https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
 // By @BrunoSobrino
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;
