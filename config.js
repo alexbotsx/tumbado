@@ -16,27 +16,41 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
-  ['595984303784']
+  ['595984303784', '👑 Mystic - Creador 👑', true],
+  ['595984303784', '💫 Mystic - Collaborator 2 💫', true],
+  ['595984303784', '💫 Mystic - Collaborator 3 💫', true],
+  ['595984303784', '💫 Mystic - Collaborator 4 💫', true],
+  ['595984303784', '💫 Mystic - Collaborator 5 💫', true],
+  ['595984303784', '💫 Mystic - Collaborator 6 💫', true],
+  ['595984303784', '💫 Mystic - Rey Endymion 💫', false],
+  ['595984303784', '💫 Mystic - Collaborator 8 💫', true],
+  ['595984303784', '💫 Mystic - OfcDiego', true],
+  ['595984303784', '💫 Mystic - By Alba070503 💫', true],
+  ['595984303784', '💫 Mystic - Gabriel Ofc', true], 
+  ['595984303784', '💫 Mystic - Tester Fabri115💫', true],
+  ['595984303784', '💫 Mystic - Saad 💫', true], 
+  ['595984303784', '💫 Mystic - Sarethh 💫', true],
+  ['595984303784'],
+  ['595984303784'],
+  ['595984303784'],
+  ['595984303784'],
+  ['595984303784'], 
+  ['595984303784'],  
+  ['595984303784'],
+  ['595984303784'],
+  ['595984303784'],
+  ['595984303784'], 
+  ['595984303784'], 
+  ['595984303784'],
+  ['595984303784'],
+  ['595984303784'],
+  ['595984303784'],
+  ['595984303784'], 
+  ['595984303784'],
+  ['595984303784'],
+  ['595984303784'],
+  ['595984303784'],
+  ['595984303784'],
   ['595984303784']
 ];
 
@@ -47,11 +61,11 @@ global.prems = ['595984303784'];
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
 global.packname = 'Sticker';
-global.author = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.wm = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.titulowm = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.titulowm2 = `𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓`
-global.igfg = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
+global.author = 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT';
+global.wm = 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT';
+global.titulowm = 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT';
+global.titulowm2 = `https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT`
+global.igfg = 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 /*global.imagen1 = fs.createReadStream('./src/assets/images/menu/languages/es/menu.png');
@@ -77,10 +91,10 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓`;
-global.gt = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.mysticbot = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.channel = 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT';
+global.wm2 = `${dia} ${fecha}\nhttps://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT`;
+global.gt = 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT';
+global.mysticbot = 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT';
+global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 global.md = 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT';
 global.mysticbot = 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
