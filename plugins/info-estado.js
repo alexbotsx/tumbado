@@ -31,7 +31,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mystic Bot';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} Alexn Ghost
+  ${tradutor.texto1[1]} 
   ${tradutor.texto1[2]} +595984303784
   ${tradutor.texto1[3]} https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
 
