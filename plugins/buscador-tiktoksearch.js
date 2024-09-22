@@ -1,4 +1,4 @@
-// Codigo hecho para The Mystic - Bot - MD por https://github.com/BrunoSobrino
+// Codigo hecho para 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓 - MD por https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
 // By @BrunoSobrino
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;

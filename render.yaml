@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: themystic-bot-md
+    name: 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓
     env: docker
     region: Frankfurt
     plan: free

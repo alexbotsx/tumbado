@@ -14,7 +14,7 @@
  *
  * Contribution:
  * Ciphertext error fix and additional improvements by @BrunoSobrino
- * See: https://github.com/BrunoSobrino
+ * See: https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
  */
 const { BufferJSON, proto, isJidBroadcast, WAMessageStubType, updateMessageWithReceipt, updateMessageWithReaction, jidNormalizedUser } = (await import('baileys')).default;
 const TIME_TO_DATA_STALE = 5 * 60 * 1000;
