@@ -25,28 +25,43 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `╭──────⚔──────╮
-    ㅤㅤ4 𝗩𝗘𝗥𝗦𝗨𝗦 4
-    ╰──────⚔──────╯
-    ╭──────────────╮
-    │ 𝗠𝗢𝗗𝗢: INFINITO
-    │
-    │       ⏱️ 𝗛𝗢𝗥𝗔𝗥𝗜𝗢
-    │ • 22:00 PM 🇻🇪
-    │ • 21:00 PM 🇨🇴 🇵🇦
-    │ • 20:00 PM 🇲🇽 🇨🇷
-    │
-    │ » 𝗘𝗦𝗖𝗨𝗔𝗗𝗥𝗔
-    │
-    │ 👑 ➤ 
-    │ ⚜️ ➤ 
-    │ ⚜️ ➤ 
-    │ ⚜️ ➤ 
-    │
-    │ » 𝗦𝗨𝗣𝗟𝗘𝗡𝗧𝗘:
-    │ ⚜️ ➤ 
-    │ ⚜️ ➤ 
-    ╰─────────────╯`.trim()
+    const str = ` *⌜ ＭＥＮＵ|ＶＥＲＳＵＳ ⌟*
+
+━━━━━━━━━━━━━━━━━━━
+☁️ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗦𝗨𝗥 ( 𝗩𝗜𝗩𝗜𝗗𝗢 )
+━━━━━━━━━━━━━━━━━━━
+⊹ *${usedPrefix}4vs4a1*
+⊹ *${usedPrefix}4vs4a2*
+⊹ *${usedPrefix}4vs4a3*
+⊹ *${usedPrefix}4vs4a4*
+⊹ *${usedPrefix}4vs4a5*
+⊹ *${usedPrefix}4vs4a6*
+━━━━━━━━━━━━━━━━━━━
+☁️ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗦𝗨𝗥 ( 𝗜𝗡𝗙𝗜𝗡𝗜𝗧𝗢 )
+━━━━━━━━━━━━━━━━━━━
+⊹ *${usedPrefix}4vs4b1*
+⊹ *${usedPrefix}4vs4b2*
+⊹ *${usedPrefix}4vs4b3*
+⊹ *${usedPrefix}4vs4b4*
+⊹ *${usedPrefix}4vs4b5*
+━━━━━━━━━━━━━━━━━━━
+⭐ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗡𝗢𝗥𝗧𝗘 ( 𝗖𝗟𝗞 )
+━━━━━━━━━━━━━━━━━━━
+⊹ *${usedPrefix}4vs4n1*
+⊹ *${usedPrefix}4vs4n2*
+⊹ *${usedPrefix}4vs4n3*
+⊹ *${usedPrefix}4vs4n4*
+⊹ *${usedPrefix}4vs4n5*
+⊹ *${usedPrefix}4vs4n6*
+━━━━━━━━━━━━━━━━━━━
+⭐ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗡𝗢𝗥𝗧𝗘 ( 𝗜𝗡𝗙𝗜𝗡𝗜𝗧𝗢 )
+━━━━━━━━━━━━━━━━━━━
+⊹ *${usedPrefix}4vs4d1*
+⊹ *${usedPrefix}4vs4d2*
+⊹ *${usedPrefix}4vs4d3*
+⊹ *${usedPrefix}4vs4d4*
+⊹ *${usedPrefix}4vs4d5*
+⊹ *${usedPrefix}4vs4d6*`.trim();
     if (m.isGroup) {
       // await conn.sendFile(m.chat, vn, './src/assets/audio/01J673Y3TGCFF1D548242AX68Q.mp3', null, m, true, { type: 'audioMessage', ptt: true})
       const fkontak2 = {'key': {'participants': '0@s.whatsapp.net', 'remoteJid': 'status@broadcast', 'fromMe': false, 'id': 'Halo'}, 'message': {'contactMessage': {'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}, 'participant': '0@s.whatsapp.net'};
@@ -60,7 +75,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     conn.reply(m.chat, tradutor.texto1[3], m);
   }
 };
-handler.command = /^(4vs4d3|4vs4d3)$/i;
+handler.command = /^(menuff|menuff)$/i;
 handler.exp = 50;
 handler.fail = null;
 export default handler;

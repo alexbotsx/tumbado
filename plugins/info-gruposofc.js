@@ -19,9 +19,9 @@ ${tradutor.texto1[1]}
 
 > GHOST TEAM :
 
-1.- https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z
+1.- https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
 
-2.- https://chat.whatsapp.com/Fy74b6fgE9SJJpHVi6CKJY`.trim();
+2.- https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY`.trim();
   const buttonMessage= {
     'document': {url: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY`},
     'mimetype': `application/${document}`,
