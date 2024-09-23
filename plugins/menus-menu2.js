@@ -74,29 +74,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *┃➤ 👁️‍🗨️ ${usedPrefix}bsmixto*
   ╰━━━━━━━━━━━━
 
- *╔══ ≪ REGLAS , LISTA , FICHA ≫ ══╗*
-*║* 💻➺ _${usedPrefix}Fem4_
-*║* 💻➺ _${usedPrefix}Fem6_
-*║* 💻➺ _${usedPrefix}FemInterna4_
-*║* 💻➺ _${usedPrefix}FemInterna6_
-*║* 💻➺ _${usedPrefix}Masc4_
-*║* 💻➺ _${usedPrefix}Masc6_
-*║* 💻➺ _${usedPrefix}MascInterna4_
-*║* 💻➺ _${usedPrefix}MascInterna6_
-*║* 💻➺ _${usedPrefix}Mixto4_
-*║* 💻➺ _${usedPrefix}Mixto6_
-*║* 💻➺ _${usedPrefix}MixtoInterna4_
-*║* 💻➺ _${usedPrefix}MixtoInterna6_
-*║* 💻➺ _${usedPrefix}apos_
-*║* 💻➺ _${usedPrefix}mapa_
-*║* 💻➺ _${usedPrefix}Ficha / Formulario Reclutamiento_
-*║* 💻➺ _${usedPrefix}Nexterra_
-*║* 💻➺ _${usedPrefix}Bermuda_
-*║* 💻➺ _${usedPrefix}Kalahary_
-*║* 💻➺ _${usedPrefix}Alpes_
-*║* 💻➺ _${usedPrefix}AgendaSemanal_
-*╚══ ≪ •❈• ≫ ══╝*
-
  *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN ≫ ══╗*
  *║* 🎐_${usedPrefix}SpamApk / WhatsApp_
  *║* 🎐_${usedPrefix}SpamComu / Comunidades_
